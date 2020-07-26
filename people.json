@@ -1,0 +1,208 @@
+[
+    {
+        "nom" : "Arc",
+        "numero" : "1",
+        "cle" : "1",
+        "liste" : [
+            {
+                "date" :"09887",
+                "heure" :"65467",
+                "cout": "I678",
+                "cle" : "G",
+                "valeur" : "7",
+                "remarque" :[{
+                    "date" :"12.01.2020",
+                    "heure" :"",
+                    "cout": "",
+                    "cle" : "",
+                    "valeur" : ""
+                }]
+            },
+            {
+                "date" :"09887",
+                "heure" :"65467",
+                "cout": "I678",
+                "cle" : "G",
+                "valeur" : "7",
+                "remarque" :[{
+                    "date" :"",
+                    "heure" :"",
+                    "cout": "",
+                    "cle" : "",
+                    "valeur" : ""
+                }]
+            },
+            {
+                "date" :"09887",
+                "heure" :"65467",
+                "cout": "I678",
+                "cle" : "G",
+                "valeur" : "7",
+                "remarque" :[{
+                    "date" :"",
+                    "heure" :"",
+                    "cout": "",
+                    "cle" : "",
+                    "valeur" : ""
+                }]
+            }
+        ]
+    },
+
+    {
+        "nom" : "Cercle",
+        "numero" : "2",
+        "cle" : "2",
+        "liste" : [
+            {
+                "date" :"09887",
+                "heure" :"65467",
+                "cout": "I678",
+                "cle" : "G",
+                "valeur" : "7",
+                "remarque" :[{
+                    "date" :"",
+                    "heure" :"",
+                    "cout": "",
+                    "cle" : "",
+                    "valeur" : ""
+                }]
+            },
+            {
+                "date" :"09887",
+                "heure" :"65467",
+                "cout": "I678",
+                "cle" : "G",
+                "valeur" : "7",
+                "remarque" :[{
+                    "date" :"",
+                    "heure" :"",
+                    "cout": "",
+                    "cle" : "",
+                    "valeur" : ""
+                }]
+            },
+            {
+                "date" :"09887",
+                "heure" :"65467",
+                "cout": "I678",
+                "cle" : "G",
+                "valeur" : "7",
+                "remarque" :[{
+                    "date" :"",
+                    "heure" :"",
+                    "cout": "",
+                    "cle" : "",
+                    "valeur" : ""
+                }]
+            }
+        ]
+    },
+
+    {
+        "nom" : "Circonferenre",
+        "numero" : "3",
+        "cle" : "3",
+        "liste" : [
+            {
+                "date" :"09887",
+                "heure" :"65467",
+                "cout": "I678",
+                "cle" : "G",
+                "valeur" : "7",
+                "remarque" :[{
+                    "date" :"",
+                    "heure" :"",
+                    "cout": "",
+                    "cle" : "",
+                    "valeur" : ""
+                }]
+            },
+            {
+                "date" :"09887",
+                "heure" :"65467",
+                "cout": "I678",
+                "cle" : "G",
+                "valeur" : "7",
+                "remarque" :[{
+                    "date" :"",
+                    "heure" :"",
+                    "cout": "",
+                    "cle" : "",
+                    "valeur" : ""
+                }]
+            },
+            {
+                "date" :"09887",
+                "heure" :"65467",
+                "cout": "I678",
+                "cle" : "G",
+                "valeur" : "7",
+                "remarque" :[{
+                    "date" :"",
+                    "heure" :"",
+                    "cout": "",
+                    "cle" : "",
+                    "valeur" : ""
+                }]
+            }
+        ]
+    },
+
+    {
+        "nom" : "Pi",
+        "numero" : "4",
+        "cle" : "4",
+        "liste" : [
+            {
+                "date" :"09887",
+                "heure" :"65467",
+                "cout": "I678",
+                "cle" : "G",
+                "valeur" : "7",
+                "remarque" :[{
+                    "date" :"",
+                    "heure" :"",
+                    "cout": "",
+                    "cle" : "",
+                    "valeur" : ""
+                }]
+            },
+            {
+                "date" :"09887",
+                "heure" :"65467",
+                "cout": "I678",
+                "cle" : "G",
+                "valeur" : "7",
+                "remarque" :[{
+                    "date" :"",
+                    "heure" :"",
+                    "cout": "",
+                    "cle" : "",
+                    "valeur" : ""
+                }]
+            },
+            {
+                "date" :"09887",
+                "heure" :"65467",
+                "cout": "I678",
+                "cle" : "G",
+                "valeur" : "7",
+                "remarque" :[{
+                    "date" :"",
+                    "heure" :"",
+                    "cout": "",
+                    "cle" : "",
+                    "valeur" : ""
+                }]
+            }
+        ]
+    }
+]      
+            
+           
+ 
+          
+
+
+
