@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: montserrat;
+    background: rgb(236, 236, 236);
+}
+nav{
+    background: rgb(89, 89, 160);
+    height: 70px;
+    width: 100%;
+    box-shadow: 0px 1px 10px rgb(150, 150, 150);
+}
+label.logo{
+    color: #ffffff;
+    font-size: 30px;
+    line-height: 70px;
+    padding-left: 30px;
+    font-weight: bold;
+}
+#myData{
+    background: #bcb4ff;
+    height: auto;
+    margin: 10px auto;
+    padding-bottom: 50px;
+    width: 700px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 6px rgb(150, 150, 150);
+}
+#color{
+    background: rgb(247, 247, 247);
+    padding: 10px;
+    margin: auto;
+    width: 600px;
+}
+h3{
+    color: #110e0e;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+}
